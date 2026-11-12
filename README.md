@@ -22,7 +22,9 @@ Performed dynamic calculations to generate meaningful business insights.
 Created interactive charts and graphs.
 Presented key metrics and insights through visual elements.
 Designed a user-friendly dashboard for better data understanding.
+
 🎯 Key Learnings
+
 Practical experience with DAX functions.
 Understanding the difference between calculated columns and calculated measures.
 Improved data visualization and dashboard development skills.
