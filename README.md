@@ -1,14 +1,17 @@
 # Power-BI-Assignment-2-DAX-Data-Visualization
 
 📌 Project Overview
+
 This project focuses on developing an interactive Power BI dashboard to transform raw data into meaningful insights using DAX calculations and data visualization techniques.
 
 🛠️ Tools & Technologies
+
 Microsoft Power BI
 DAX (Data Analysis Expressions)
 Data Visualization
 
 ⚙️ Features & Implementation
+
 1. Calculated Columns
 Created calculated columns to derive additional information from existing datasets.
 Used calculated columns to enhance data analysis.
